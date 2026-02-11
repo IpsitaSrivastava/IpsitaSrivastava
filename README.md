@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQlpoE1QQ/giphy.gif" width="100">
+  <img src="C:\Users\sriva\Downloads\240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100">
   
   # 👋 Hi, I'm Ipsita Srivastava
   
   ### 📊 Business Analyst | Data Analyst | Data Storyteller
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ipsitasrivastava/)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ipsita.srivastava@email.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaipsita@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IpsitaSrivastava)
   [![Followers](https://img.shields.io/github/followers/IpsitaSrivastava?label=Followers&style=social&color=blue)](https://github.com/IpsitaSrivastava?tab=followers)
 
@@ -60,7 +60,7 @@ I'm a **data-driven professional** who transforms complex datasets into compelli
   
   ## 🎯 Core Competencies
   
-</div>
+<div align="center">
 
 | 📊 Data Analysis | 📈 Visualization | 💼 Business Intelligence | 🔮 Predictive Analytics |
 |:---:|:---:|:---:|:---:|
@@ -128,3 +128,11 @@ I'm a **data-driven professional** who transforms complex datasets into compelli
   
   ## 🎨 My Analytics Approach
   
+
+<div align="center">
+  
+  ### "In data we trust, but insight drives decisions." 📊✨
+  
+  Made with ❤️ by Ipsita Srivastava
+  
+</div>

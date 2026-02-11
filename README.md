@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="<div class="tenor-gif-embed" data-postid="5850642785391063776" data-share-method="host" data-aspect-ratio="2.49" data-width="100%"><a href="https://tenor.com/view/welcome-gif-5850642785391063776">Welcome GIF</a>from <a href="https://tenor.com/search/welcome-gifs">Welcome GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="500">
+  <img src="https://tenor.com/g8maxkMPSNM.gif" width="500">
   
   # 👋 Hi, I'm Ipsita Srivastava
   

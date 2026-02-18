@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://tenor.com/g8maxkMPSNM.gif" width="500">
-  
   # 👋 Hi, I'm Ipsita Srivastava
   
   ### 📊 Business Analyst | Data Analyst | Data Storyteller

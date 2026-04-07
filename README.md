@@ -70,9 +70,7 @@ I'm a **data-driven professional** who transforms complex datasets into compelli
 
 <div align="center">
   
-  ## 🚀 Portfolio Projects (In Progress)
-  
-  ### Coming Soon! 🔄
+  ## 🚀 Featured Projects 🔄
   
 </div>
 
@@ -83,7 +81,7 @@ I'm a **data-driven professional** who transforms complex datasets into compelli
 | 📊 **Customer Segmentation** | 🔨 Building | RFM analysis, behavioral segmentation |
 | 💰 **Sales Analytics Dashboard** | 🔨 Building | Revenue, pipeline, regional performance |
 | 📱 **Marketing ROI Analysis** | 🔨 Building | Multi-channel attribution, campaign analysis |
-| 🔮 **Churn Prediction Model** | ���� Building | Predictive modeling, feature engineering |
+| 🔮 **Churn Prediction Model** | 🔨 Building | Predictive modeling, feature engineering |
 | 🔧 **Data Cleaning Toolkit** | 🔨 Building | Reusable Python scripts & SQL queries |
 
 </div>
@@ -98,13 +96,13 @@ I'm a **data-driven professional** who transforms complex datasets into compelli
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IpsitaSrivastava&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IpsitaSrivastava&show_icons=true&count_private=true&cache_seconds=86400))
   
 </div>
 
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IpsitaSrivastava&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IpsitaSrivastava&layout=compact&count_private=true&cache_seconds=86400)
   
 </div>
 
